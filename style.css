@@ -454,7 +454,7 @@
   color: #ffffff;
   font-size: 20px;
   text-align: center;
-  letter-spacing: -1.4px;
+  letter-spacing: -1.40px;
   line-height: 30px;
 }
 
@@ -786,7 +786,7 @@
   color: #000000;
   font-size: 40px;
   text-align: center;
-  letter-spacing: -0.4px;
+  letter-spacing: -0.40px;
   line-height: 130px;
   white-space: nowrap;
 }
@@ -988,7 +988,7 @@
   font-weight: 500;
   color: #ffffff;
   font-size: 20px;
-  letter-spacing: -0.6px;
+  letter-spacing: -0.60px;
   line-height: 30px;
 }
 
@@ -1012,7 +1012,7 @@
   font-weight: 600;
   color: #000000;
   font-size: 20px;
-  letter-spacing: -0.6px;
+  letter-spacing: -0.60px;
   line-height: 30px;
 }
 
@@ -1060,8 +1060,8 @@
   font-weight: 700;
   color: #000000;
   font-size: 50px;
-  letter-spacing: -0.5px;
-  line-height: 70px;
+  letter-spacing: -0.50px;
+  line-height: 70.0px;
   white-space: nowrap;
 }
 
@@ -1112,7 +1112,7 @@
   font-weight: 500;
   color: #ffffff;
   font-size: 20px;
-  letter-spacing: -0.6px;
+  letter-spacing: -0.60px;
   line-height: 30px;
 }
 
@@ -1133,7 +1133,7 @@
   color: #000000;
   font-size: 40px;
   text-align: center;
-  letter-spacing: -0.4px;
+  letter-spacing: -0.40px;
   line-height: 130px;
   white-space: nowrap;
 }
